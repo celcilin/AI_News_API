@@ -57,29 +57,29 @@ Json Response.
 ```json
 [
     "0":{
-        // first website
+        " first website"
         "ls_news":[
             {
-                //Artificial 
+                "Artificial "
                 "AI":[
                     {
-                        //article
+                        "article"
                         "0":[
                             "title":"article tilte",
                             "link":"link to the orginal website",
                             "description":"description about the website",
                             "img":"image link for the article",
                         ],
-                        // Each contain 20 article
+                        " Each contain 20 article"
                     }
                 ],
-                // mechine learing
+                " mechine learing"
                 "ML":[
                     {
 
                     }
                 ],
-                // computer Vision
+                "computer Vision"
                 "CV":[
                     {
 
@@ -89,8 +89,8 @@ Json Response.
         ],
 
         "NDTV_news":[
-            // same details
-            // Each contain 30 article
+            "same details"
+            "Each contain 30 article"
         ]
     }
 ]
@@ -110,29 +110,29 @@ Json Response.
 ```json
 [
     "0":{
-        // first website
+        "first website"
         "ls_news":[
             {
-                //genitic 
+                "genitic" 
                 "GA":[
                     {
-                        //article
+                        "article"
                         "0":[
                             "title":"article tilte",
                             "link":"link to the orginal website",
                             "description":"description about the website",
                             "img":"image link for the article",
                         ],
-                        // each contain 20 article
+                        "each contain 20 article"
                     }
                 ],
-                //  natural lang proc
+                "  natural lang proc"
                 "NLP":[
                     {
 
                     }
                 ],
-                // rainfor learn
+                " rainfor learn"
                 "RL":[
                     {
 
@@ -142,8 +142,8 @@ Json Response.
         ],
 
         "NDTV_news":[
-            // same details
-            // Each contain 20 article
+            "same details"
+            "Each contain 20 article"
         ]
     }
 ]
@@ -185,26 +185,26 @@ Json Response.
 [{
 "ls_news":[
             {
-                //article
+                "article"
                 "0":[
                     "title":"article tilte",
                     "link":"link to the orginal website",
                     "description":"description about the website",
                     "img":"image link for the article",
                 ],
-                // contain 20 article
+                "contain 20 article"
             }
         ],
 "NDTV_news":[
             {
-                //article
+                "article"
                 "0":[
                     "title":"article tilte",
                     "link":"link to the orginal website",
                     "description":"description about the website",
                     "img":"image link for the article",
                 ],
-                // contain 30 article
+                "contain 30 article"
             }
         ],
 
@@ -229,26 +229,26 @@ Json Response.
 [{
 "ls_news":[
             {
-                //article
+                "article"
                 "0":[
                     "title":"article tilte",
                     "link":"link to the orginal website",
                     "description":"description about the website",
                     "img":"image link for the article",
                 ],
-                // contain 20 article
+                " contain 20 article"
             }
         ],
 "NDTV_news":[
             {
-                //article
+                "article"
                 "0":[
                     "title":"article tilte",
                     "link":"link to the orginal website",
                     "description":"description about the website",
                     "img":"image link for the article",
                 ],
-                // contain 30 article
+                " contain 30 article"
             }
         ],
 
